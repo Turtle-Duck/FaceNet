@@ -1,0 +1,10 @@
+Prerequisites:
+opencv-python
+imageio
+skimage
+keras
+
+How to run:
+To run this model which based on image embedding, you just need to use jupyter-notebook to open 'face_images.ipynb' and run it from the beginning.
+The model structure is defined in code/inception_resnet_v1.py and is saved in /model/keras.
+If you want to test the model, the evaluation is also included in face_images.ipynb.
